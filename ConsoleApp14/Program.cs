@@ -11,6 +11,8 @@ namespace ConsoleApp14
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!");
+            Console.WriteLine("Bom dia!");
+            Console.WriteLine("Boa tarde!");
 
             Console.ReadLine();
         }
