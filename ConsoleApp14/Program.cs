@@ -14,6 +14,11 @@ namespace ConsoleApp14
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Boa tarde!");
             Console.WriteLine("Como você está?");
+
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine("oi");
+            }
             Console.ReadLine();
         }
     }
